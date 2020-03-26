@@ -1,5 +1,3 @@
-# Food-Ordering
-
 # Food Ordering System
 
 ## Screenshots
